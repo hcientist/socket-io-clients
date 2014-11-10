@@ -1,0 +1,24 @@
+{
+  "name": "socket-io-clients",
+  "version": "0.0.0",
+  "description": "socket-io-clients =================",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thegreatmichael/socket-io-clients.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thegreatmichael/socket-io-clients/issues"
+  },
+  "homepage": "https://github.com/thegreatmichael/socket-io-clients",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.2.0"
+  }
+}
